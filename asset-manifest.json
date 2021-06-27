@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/TAVL/static/css/main.01d6828c.chunk.css",
+    "main.js": "/TAVL/static/js/main.cbfcd6ff.chunk.js",
+    "main.js.map": "/TAVL/static/js/main.cbfcd6ff.chunk.js.map",
+    "runtime-main.js": "/TAVL/static/js/runtime-main.38bc6a1f.js",
+    "runtime-main.js.map": "/TAVL/static/js/runtime-main.38bc6a1f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/TAVL/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e698e6fc.chunk.js": "/TAVL/static/js/2.e698e6fc.chunk.js",
+    "static/js/2.e698e6fc.chunk.js.map": "/TAVL/static/js/2.e698e6fc.chunk.js.map",
+    "index.html": "/TAVL/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/TAVL/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.01d6828c.chunk.css.map": "/TAVL/static/css/main.01d6828c.chunk.css.map",
+    "static/js/2.e698e6fc.chunk.js.LICENSE.txt": "/TAVL/static/js/2.e698e6fc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TAVL/static/media/img-3.c2a859d1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38bc6a1f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.e698e6fc.chunk.js",
+    "static/css/main.01d6828c.chunk.css",
+    "static/js/main.cbfcd6ff.chunk.js"
+  ]
+}
